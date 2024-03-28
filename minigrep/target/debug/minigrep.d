@@ -1,0 +1,1 @@
+/Users/alex/Development/Personal_project/rust/minigrep/minigrep/minigrep/target/debug/minigrep: /Users/alex/Development/Personal_project/rust/minigrep/minigrep/minigrep/src/lib.rs /Users/alex/Development/Personal_project/rust/minigrep/minigrep/minigrep/src/main.rs
